@@ -517,7 +517,9 @@ load_nb_data <- function(level) {
       "Data for '",
       level,
       "' not found. ",
-      "Please ensure package data files are installed correctly."
+      "Please ensure package data files are installed correctly. ",
+      "Expected: ",
+      paste0(level, ".rds")
     )
   })
 }
