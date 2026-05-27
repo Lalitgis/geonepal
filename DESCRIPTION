@@ -2,10 +2,10 @@ Package: nepalboundaries
 Title: Administrative Boundaries of Nepal
 Version: 0.1.0
 Authors@R: 
-    person(given = "Your Name",
-           family = "Your Last Name",
+    person(given = "Lalit",
+           family = "BC",
            role = c("aut", "cre"),
-           email = "your.email@example.com")
+           email = "lalit.bc@example.com")
 Description: Provides easy access to administrative boundaries of Nepal at multiple levels:
     country, provincial, district, municipal, and ward. The package offers functions to
     retrieve spatial data in SF (Simple Features) format for geographic analysis and visualization.
@@ -23,5 +23,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
-URL: https://github.com/yourusername/nepalboundaries
-BugReports: https://github.com/yourusername/nepalboundaries/issues
+URL: https://github.com/Lalitgis/nepalboundaries
+BugReports: https://github.com/Lalitgis/nepalboundaries/issues
